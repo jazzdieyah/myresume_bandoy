@@ -63,11 +63,13 @@ img{
 }
 .img1{
     float: left;
+    padding:10px;
     width: 200px;
     height: 200px;
 }
 .img2{
     float: left;
+    padding:10px;
     width: 200px;
     height: 200px;
 }
